@@ -4,3 +4,11 @@ a+b=400
 
 //multiplication 
 a*b=20
+
+//divison
+a/b=30
+
+//modulus
+a%b=1
+
+//merge example
